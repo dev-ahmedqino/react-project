@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/dev-ahmedqino/react-project/static/css/main.6e89b4c8.css",
+    "main.js": "/dev-ahmedqino/react-project/static/js/main.e9b82393.js",
+    "static/media/about_img.jpg": "/dev-ahmedqino/react-project/static/media/about_img.2175c7850d7ca2f450d5.jpg",
+    "static/media/banner9.jpg": "/dev-ahmedqino/react-project/static/media/banner9.7a3935e82c3f71be543d.jpg",
+    "static/media/banner8.jpg": "/dev-ahmedqino/react-project/static/media/banner8.0b7b88a86864f6dca3e5.jpg",
+    "static/media/furniture_insta0.jpg": "/dev-ahmedqino/react-project/static/media/furniture_insta0.3726cdcb3b4c876e6f9e.jpg",
+    "static/media/banner7.jpg": "/dev-ahmedqino/react-project/static/media/banner7.9852b3a208459387258e.jpg",
+    "static/media/furniture_insta4.jpg": "/dev-ahmedqino/react-project/static/media/furniture_insta4.312f880dc4f9228fbc39.jpg",
+    "static/media/furniture_insta3.jpg": "/dev-ahmedqino/react-project/static/media/furniture_insta3.32cf7a7c34b9fdee0350.jpg",
+    "static/media/furniture_insta2.jpg": "/dev-ahmedqino/react-project/static/media/furniture_insta2.a7680d88296dc9b60d8e.jpg",
+    "static/media/sale2.jpg": "/dev-ahmedqino/react-project/static/media/sale2.309b8ea3533a3034e352.jpg",
+    "static/media/furniture_insta1.jpg": "/dev-ahmedqino/react-project/static/media/furniture_insta1.b7a09bc08c0f605a71a4.jpg",
+    "static/media/furniture_insta5.jpg": "/dev-ahmedqino/react-project/static/media/furniture_insta5.4c14c803399f68463e98.jpg",
+    "static/media/sale1.jpg": "/dev-ahmedqino/react-project/static/media/sale1.900934871828d756b909.jpg",
+    "static/media/support.PNG": "/dev-ahmedqino/react-project/static/media/support.391691d3f87c2ac5afc7.PNG",
+    "static/media/money.PNG": "/dev-ahmedqino/react-project/static/media/money.fe7cc438b37e356370ea.PNG",
+    "static/media/fast.PNG": "/dev-ahmedqino/react-project/static/media/fast.d2e1097c2319ee8bab2e.PNG",
+    "index.html": "/dev-ahmedqino/react-project/index.html",
+    "static/media/security.PNG": "/dev-ahmedqino/react-project/static/media/security.9f72f5c76ed80d577c51.PNG",
+    "main.6e89b4c8.css.map": "/dev-ahmedqino/react-project/static/css/main.6e89b4c8.css.map",
+    "main.e9b82393.js.map": "/dev-ahmedqino/react-project/static/js/main.e9b82393.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e89b4c8.css",
+    "static/js/main.e9b82393.js"
+  ]
+}
